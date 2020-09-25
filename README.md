@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/mass-community/MassNet-wallet.svg)](https://travis-ci.org/mass-community/MassNet-wallet) [![MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](./LICENSE)
 
+**Attention:** This project has been moved to [massnetorg/MassNet-wallet](https://github.com/massnetorg/MassNet-wallet), and will no longer be updated.
+
 A wallet implementation of [MassNet](http://www.massnet.org/) in Golang.
 
 ## Requirements
